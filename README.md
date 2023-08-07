@@ -1,2 +1,2 @@
 # python
-Python para ciberseguridad 2023
+Python para ciberseguridad
